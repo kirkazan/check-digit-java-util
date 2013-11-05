@@ -1,0 +1,27 @@
+# Java
+*.class
+*.classpath
+*.project
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#ignore thumbnails created by windows
+Thumbs.db
+
+#Intellij Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target
+
+# Gradle
+.gradle
+build
+out
+user.gradle
